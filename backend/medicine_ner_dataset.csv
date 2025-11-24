@@ -1,0 +1,201 @@
+sentence,tokens,labels
+Doctor prescribed Metformin 100 mg once daily,Doctor prescribed Metformin 100 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Losartan 650 mg once daily,Doctor prescribed Losartan 650 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Azithromycin 300 mg once daily,Doctor prescribed Azithromycin 300 mg once daily,O O B-MED I-MED I-MED O O
+Apply Metformin ointment on the wound twice daily,Apply Metformin ointment on the wound twice daily,O B-MED O O O O O O
+Consume Lisinopril after food,Consume Lisinopril after food,O B-MED O O
+Inject Amoxicillin 400 units in the morning,Inject Amoxicillin 400 units in the morning,O B-MED I-MED I-MED O O O
+Apply Omeprazole ointment on the wound twice daily,Apply Omeprazole ointment on the wound twice daily,O B-MED O O O O O O
+Apply Paracetamol ointment on the wound twice daily,Apply Paracetamol ointment on the wound twice daily,O B-MED O O O O O O
+Patient should take Cough Syrup 100 mg three times a day,Patient should take Cough Syrup 100 mg three times a day,O O O O O O O O O O O
+Apply Losartan ointment on the wound twice daily,Apply Losartan ointment on the wound twice daily,O B-MED O O O O O O
+Continue Omeprazole 850 mg with breakfast,Continue Omeprazole 850 mg with breakfast,O B-MED I-MED I-MED O O
+Apply Amoxicillin ointment on the wound twice daily,Apply Amoxicillin ointment on the wound twice daily,O B-MED O O O O O O
+Continue Amoxicillin 300 mg with breakfast,Continue Amoxicillin 300 mg with breakfast,O B-MED I-MED I-MED O O
+Start Pantoprazole 500 mg for pain relief,Start Pantoprazole 500 mg for pain relief,O B-MED I-MED I-MED O O O
+Inject Lisinopril 400 units in the morning,Inject Lisinopril 400 units in the morning,O B-MED I-MED I-MED O O O
+Inject Vitamin B12 400 units in the morning,Inject Vitamin B12 400 units in the morning,O O O O O O O O
+Inject Cough Syrup 500 units in the morning,Inject Cough Syrup 500 units in the morning,O O O O O O O O
+Start Metformin 650 mg for pain relief,Start Metformin 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Use Lisinopril before bedtime,Use Lisinopril before bedtime,O B-MED O O
+Use Ranitidine before bedtime,Use Ranitidine before bedtime,O B-MED O O
+Take Cough Syrup 300 mg twice daily,Take Cough Syrup 300 mg twice daily,O O O O O O O
+Take Insulin 850 mg twice daily,Take Insulin 850 mg twice daily,O B-MED I-MED I-MED O O
+Doctor prescribed Ibuprofen 400 mg once daily,Doctor prescribed Ibuprofen 400 mg once daily,O O B-MED I-MED I-MED O O
+Take Atorvastatin for 5 days,Take Atorvastatin for 5 days,O B-MED O O O
+Take Ibuprofen for 5 days,Take Ibuprofen for 5 days,O B-MED O O O
+Patient should take Pantoprazole 300 mg three times a day,Patient should take Pantoprazole 300 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Apply Ranitidine ointment on the wound twice daily,Apply Ranitidine ointment on the wound twice daily,O B-MED O O O O O O
+Continue Cetirizine 500 mg with breakfast,Continue Cetirizine 500 mg with breakfast,O B-MED I-MED I-MED O O
+Doctor prescribed Lisinopril 300 mg once daily,Doctor prescribed Lisinopril 300 mg once daily,O O B-MED I-MED I-MED O O
+Consume Dolo 650 after food,Consume Dolo 650 after food,O O O O O
+Doctor prescribed Ibuprofen 650 mg once daily,Doctor prescribed Ibuprofen 650 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Pantoprazole 300 mg once daily,Doctor prescribed Pantoprazole 300 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Metformin 850 mg once daily,Doctor prescribed Metformin 850 mg once daily,O O B-MED I-MED I-MED O O
+Apply Metformin ointment on the wound twice daily,Apply Metformin ointment on the wound twice daily,O B-MED O O O O O O
+Take Insulin for 5 days,Take Insulin for 5 days,O B-MED O O O
+Continue Insulin 650 mg with breakfast,Continue Insulin 650 mg with breakfast,O B-MED I-MED I-MED O O
+Consume Losartan after food,Consume Losartan after food,O B-MED O O
+Use Vitamin D before bedtime,Use Vitamin D before bedtime,O O O O O
+Use Dolo 650 before bedtime,Use Dolo 650 before bedtime,O O O O O
+Inject Cough Syrup 850 units in the morning,Inject Cough Syrup 850 units in the morning,O O O O O O O O
+Doctor prescribed Insulin 100 mg once daily,Doctor prescribed Insulin 100 mg once daily,O O B-MED I-MED I-MED O O
+Take Losartan 400 mg twice daily,Take Losartan 400 mg twice daily,O B-MED I-MED I-MED O O
+Use Atorvastatin before bedtime,Use Atorvastatin before bedtime,O B-MED O O
+Take Paracetamol 650 mg twice daily,Take Paracetamol 650 mg twice daily,O B-MED I-MED I-MED O O
+Patient should take Aspirin 400 mg three times a day,Patient should take Aspirin 400 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Patient should take Dolo 650 300 mg three times a day,Patient should take Dolo 650 300 mg three times a day,O O O O O O O O O O O
+Start Lisinopril 100 mg for pain relief,Start Lisinopril 100 mg for pain relief,O B-MED I-MED I-MED O O O
+Apply Ibuprofen ointment on the wound twice daily,Apply Ibuprofen ointment on the wound twice daily,O B-MED O O O O O O
+Inject Insulin 400 units in the morning,Inject Insulin 400 units in the morning,O B-MED I-MED I-MED O O O
+Inject Atorvastatin 100 units in the morning,Inject Atorvastatin 100 units in the morning,O B-MED I-MED I-MED O O O
+Doctor prescribed Amoxicillin 650 mg once daily,Doctor prescribed Amoxicillin 650 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Pantoprazole 250 mg once daily,Doctor prescribed Pantoprazole 250 mg once daily,O O B-MED I-MED I-MED O O
+Take Cough Syrup 300 mg twice daily,Take Cough Syrup 300 mg twice daily,O O O O O O O
+Patient should take Omeprazole 650 mg three times a day,Patient should take Omeprazole 650 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Doctor prescribed Prednisone 850 mg once daily,Doctor prescribed Prednisone 850 mg once daily,O O B-MED I-MED I-MED O O
+Apply Cough Syrup ointment on the wound twice daily,Apply Cough Syrup ointment on the wound twice daily,O O O O O O O O O
+Consume Aspirin after food,Consume Aspirin after food,O B-MED O O
+Patient should take Cetirizine 100 mg three times a day,Patient should take Cetirizine 100 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Continue Amoxicillin 300 mg with breakfast,Continue Amoxicillin 300 mg with breakfast,O B-MED I-MED I-MED O O
+Take Ibuprofen for 5 days,Take Ibuprofen for 5 days,O B-MED O O O
+Doctor prescribed Omeprazole 850 mg once daily,Doctor prescribed Omeprazole 850 mg once daily,O O B-MED I-MED I-MED O O
+Take Ranitidine for 5 days,Take Ranitidine for 5 days,O B-MED O O O
+Inject Dolo 650 850 units in the morning,Inject Dolo 650 850 units in the morning,O O O O O O O O
+Continue Neosporin 250 mg with breakfast,Continue Neosporin 250 mg with breakfast,O B-MED I-MED I-MED O O
+Take Insulin 250 mg twice daily,Take Insulin 250 mg twice daily,O B-MED I-MED I-MED O O
+Continue Cough Syrup 400 mg with breakfast,Continue Cough Syrup 400 mg with breakfast,O O O O O O O
+Start Dolo 650 300 mg for pain relief,Start Dolo 650 300 mg for pain relief,O O O O O O O O
+Take Ranitidine for 5 days,Take Ranitidine for 5 days,O B-MED O O O
+Doctor prescribed Ranitidine 400 mg once daily,Doctor prescribed Ranitidine 400 mg once daily,O O B-MED I-MED I-MED O O
+Use Paracetamol before bedtime,Use Paracetamol before bedtime,O B-MED O O
+Use Dolo 650 before bedtime,Use Dolo 650 before bedtime,O O O O O
+Start Aspirin 650 mg for pain relief,Start Aspirin 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Doctor prescribed Omeprazole 500 mg once daily,Doctor prescribed Omeprazole 500 mg once daily,O O B-MED I-MED I-MED O O
+Continue Vitamin D 400 mg with breakfast,Continue Vitamin D 400 mg with breakfast,O O O O O O O
+Use Prednisone before bedtime,Use Prednisone before bedtime,O B-MED O O
+Continue Vitamin D 250 mg with breakfast,Continue Vitamin D 250 mg with breakfast,O O O O O O O
+Continue Azithromycin 500 mg with breakfast,Continue Azithromycin 500 mg with breakfast,O B-MED I-MED I-MED O O
+Continue Cough Syrup 850 mg with breakfast,Continue Cough Syrup 850 mg with breakfast,O O O O O O O
+Inject Atorvastatin 400 units in the morning,Inject Atorvastatin 400 units in the morning,O B-MED I-MED I-MED O O O
+Doctor prescribed Cough Syrup 100 mg once daily,Doctor prescribed Cough Syrup 100 mg once daily,O O O O O O O O
+Take Prednisone 500 mg twice daily,Take Prednisone 500 mg twice daily,O B-MED I-MED I-MED O O
+Doctor prescribed Neosporin 250 mg once daily,Doctor prescribed Neosporin 250 mg once daily,O O B-MED I-MED I-MED O O
+Take Metformin 250 mg twice daily,Take Metformin 250 mg twice daily,O B-MED I-MED I-MED O O
+Start Omeprazole 650 mg for pain relief,Start Omeprazole 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Start Lisinopril 100 mg for pain relief,Start Lisinopril 100 mg for pain relief,O B-MED I-MED I-MED O O O
+Start Metformin 300 mg for pain relief,Start Metformin 300 mg for pain relief,O B-MED I-MED I-MED O O O
+Doctor prescribed Atorvastatin 100 mg once daily,Doctor prescribed Atorvastatin 100 mg once daily,O O B-MED I-MED I-MED O O
+Inject Pantoprazole 850 units in the morning,Inject Pantoprazole 850 units in the morning,O B-MED I-MED I-MED O O O
+Doctor prescribed Pantoprazole 850 mg once daily,Doctor prescribed Pantoprazole 850 mg once daily,O O B-MED I-MED I-MED O O
+Start Azithromycin 650 mg for pain relief,Start Azithromycin 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Use Azithromycin before bedtime,Use Azithromycin before bedtime,O B-MED O O
+Apply Metformin ointment on the wound twice daily,Apply Metformin ointment on the wound twice daily,O B-MED O O O O O O
+Take Cough Syrup 300 mg twice daily,Take Cough Syrup 300 mg twice daily,O O O O O O O
+Continue Cetirizine 400 mg with breakfast,Continue Cetirizine 400 mg with breakfast,O B-MED I-MED I-MED O O
+Take Dolo 650 650 mg twice daily,Take Dolo 650 650 mg twice daily,O O O O O O O
+Inject Ranitidine 400 units in the morning,Inject Ranitidine 400 units in the morning,O B-MED I-MED I-MED O O O
+Take Azithromycin 400 mg twice daily,Take Azithromycin 400 mg twice daily,O B-MED I-MED I-MED O O
+Continue Paracetamol 850 mg with breakfast,Continue Paracetamol 850 mg with breakfast,O B-MED I-MED I-MED O O
+Apply Amoxicillin ointment on the wound twice daily,Apply Amoxicillin ointment on the wound twice daily,O B-MED O O O O O O
+Consume Cetirizine after food,Consume Cetirizine after food,O B-MED O O
+Patient should take Metformin 500 mg three times a day,Patient should take Metformin 500 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Continue Atorvastatin 400 mg with breakfast,Continue Atorvastatin 400 mg with breakfast,O B-MED I-MED I-MED O O
+Patient should take Insulin 400 mg three times a day,Patient should take Insulin 400 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Consume Cough Syrup after food,Consume Cough Syrup after food,O O O O O
+Take Neosporin for 5 days,Take Neosporin for 5 days,O B-MED O O O
+Apply Omeprazole ointment on the wound twice daily,Apply Omeprazole ointment on the wound twice daily,O B-MED O O O O O O
+Inject Amoxicillin 300 units in the morning,Inject Amoxicillin 300 units in the morning,O B-MED I-MED I-MED O O O
+Continue Omeprazole 500 mg with breakfast,Continue Omeprazole 500 mg with breakfast,O B-MED I-MED I-MED O O
+Apply Aspirin ointment on the wound twice daily,Apply Aspirin ointment on the wound twice daily,O B-MED O O O O O O
+Inject Neosporin 650 units in the morning,Inject Neosporin 650 units in the morning,O B-MED I-MED I-MED O O O
+Consume Cetirizine after food,Consume Cetirizine after food,O B-MED O O
+Doctor prescribed Prednisone 850 mg once daily,Doctor prescribed Prednisone 850 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Vitamin D 850 mg once daily,Doctor prescribed Vitamin D 850 mg once daily,O O O O O O O O
+Use Ibuprofen before bedtime,Use Ibuprofen before bedtime,O B-MED O O
+Take Atorvastatin 250 mg twice daily,Take Atorvastatin 250 mg twice daily,O B-MED I-MED I-MED O O
+Consume Azithromycin after food,Consume Azithromycin after food,O B-MED O O
+Patient should take Pantoprazole 500 mg three times a day,Patient should take Pantoprazole 500 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Use Vitamin D before bedtime,Use Vitamin D before bedtime,O O O O O
+Inject Omeprazole 850 units in the morning,Inject Omeprazole 850 units in the morning,O B-MED I-MED I-MED O O O
+Take Pantoprazole for 5 days,Take Pantoprazole for 5 days,O B-MED O O O
+Doctor prescribed Amoxicillin 250 mg once daily,Doctor prescribed Amoxicillin 250 mg once daily,O O B-MED I-MED I-MED O O
+Start Paracetamol 500 mg for pain relief,Start Paracetamol 500 mg for pain relief,O B-MED I-MED I-MED O O O
+Take Metformin for 5 days,Take Metformin for 5 days,O B-MED O O O
+Use Prednisone before bedtime,Use Prednisone before bedtime,O B-MED O O
+Start Ranitidine 650 mg for pain relief,Start Ranitidine 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Start Vitamin D 100 mg for pain relief,Start Vitamin D 100 mg for pain relief,O O O O O O O O
+Doctor prescribed Neosporin 250 mg once daily,Doctor prescribed Neosporin 250 mg once daily,O O B-MED I-MED I-MED O O
+Take Amoxicillin for 5 days,Take Amoxicillin for 5 days,O B-MED O O O
+Apply Pantoprazole ointment on the wound twice daily,Apply Pantoprazole ointment on the wound twice daily,O B-MED O O O O O O
+Patient should take Ranitidine 100 mg three times a day,Patient should take Ranitidine 100 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Take Lisinopril for 5 days,Take Lisinopril for 5 days,O B-MED O O O
+Doctor prescribed Amoxicillin 500 mg once daily,Doctor prescribed Amoxicillin 500 mg once daily,O O B-MED I-MED I-MED O O
+Start Lisinopril 300 mg for pain relief,Start Lisinopril 300 mg for pain relief,O B-MED I-MED I-MED O O O
+Apply Cetirizine ointment on the wound twice daily,Apply Cetirizine ointment on the wound twice daily,O B-MED O O O O O O
+Patient should take Ibuprofen 250 mg three times a day,Patient should take Ibuprofen 250 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Continue Cough Syrup 650 mg with breakfast,Continue Cough Syrup 650 mg with breakfast,O O O O O O O
+Use Aspirin before bedtime,Use Aspirin before bedtime,O B-MED O O
+Inject Insulin 250 units in the morning,Inject Insulin 250 units in the morning,O B-MED I-MED I-MED O O O
+Doctor prescribed Ranitidine 850 mg once daily,Doctor prescribed Ranitidine 850 mg once daily,O O B-MED I-MED I-MED O O
+Take Insulin for 5 days,Take Insulin for 5 days,O B-MED O O O
+Continue Aspirin 850 mg with breakfast,Continue Aspirin 850 mg with breakfast,O B-MED I-MED I-MED O O
+Start Neosporin 500 mg for pain relief,Start Neosporin 500 mg for pain relief,O B-MED I-MED I-MED O O O
+Inject Losartan 250 units in the morning,Inject Losartan 250 units in the morning,O B-MED I-MED I-MED O O O
+Take Pantoprazole 100 mg twice daily,Take Pantoprazole 100 mg twice daily,O B-MED I-MED I-MED O O
+Doctor prescribed Losartan 300 mg once daily,Doctor prescribed Losartan 300 mg once daily,O O B-MED I-MED I-MED O O
+Patient should take Vitamin D 300 mg three times a day,Patient should take Vitamin D 300 mg three times a day,O O O O O O O O O O O
+Continue Vitamin B12 100 mg with breakfast,Continue Vitamin B12 100 mg with breakfast,O O O O O O O
+Take Metformin 300 mg twice daily,Take Metformin 300 mg twice daily,O B-MED I-MED I-MED O O
+Take Omeprazole 300 mg twice daily,Take Omeprazole 300 mg twice daily,O B-MED I-MED I-MED O O
+Use Losartan before bedtime,Use Losartan before bedtime,O B-MED O O
+Patient should take Paracetamol 300 mg three times a day,Patient should take Paracetamol 300 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Use Omeprazole before bedtime,Use Omeprazole before bedtime,O B-MED O O
+Use Aspirin before bedtime,Use Aspirin before bedtime,O B-MED O O
+Patient should take Insulin 300 mg three times a day,Patient should take Insulin 300 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Inject Dolo 650 100 units in the morning,Inject Dolo 650 100 units in the morning,O O O O O O O O
+Start Pantoprazole 300 mg for pain relief,Start Pantoprazole 300 mg for pain relief,O B-MED I-MED I-MED O O O
+Take Omeprazole 850 mg twice daily,Take Omeprazole 850 mg twice daily,O B-MED I-MED I-MED O O
+Take Ranitidine for 5 days,Take Ranitidine for 5 days,O B-MED O O O
+Use Aspirin before bedtime,Use Aspirin before bedtime,O B-MED O O
+Take Azithromycin for 5 days,Take Azithromycin for 5 days,O B-MED O O O
+Start Metformin 650 mg for pain relief,Start Metformin 650 mg for pain relief,O B-MED I-MED I-MED O O O
+Take Cetirizine 850 mg twice daily,Take Cetirizine 850 mg twice daily,O B-MED I-MED I-MED O O
+Apply Lisinopril ointment on the wound twice daily,Apply Lisinopril ointment on the wound twice daily,O B-MED O O O O O O
+Take Amoxicillin 300 mg twice daily,Take Amoxicillin 300 mg twice daily,O B-MED I-MED I-MED O O
+Consume Ibuprofen after food,Consume Ibuprofen after food,O B-MED O O
+Use Lisinopril before bedtime,Use Lisinopril before bedtime,O B-MED O O
+Doctor prescribed Dolo 650 250 mg once daily,Doctor prescribed Dolo 650 250 mg once daily,O O O O O O O O
+Continue Insulin 500 mg with breakfast,Continue Insulin 500 mg with breakfast,O B-MED I-MED I-MED O O
+Consume Aspirin after food,Consume Aspirin after food,O B-MED O O
+Doctor prescribed Ranitidine 650 mg once daily,Doctor prescribed Ranitidine 650 mg once daily,O O B-MED I-MED I-MED O O
+Doctor prescribed Ranitidine 300 mg once daily,Doctor prescribed Ranitidine 300 mg once daily,O O B-MED I-MED I-MED O O
+Inject Pantoprazole 500 units in the morning,Inject Pantoprazole 500 units in the morning,O B-MED I-MED I-MED O O O
+Inject Lisinopril 300 units in the morning,Inject Lisinopril 300 units in the morning,O B-MED I-MED I-MED O O O
+Patient should take Amoxicillin 850 mg three times a day,Patient should take Amoxicillin 850 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Patient should take Aspirin 250 mg three times a day,Patient should take Aspirin 250 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Continue Ibuprofen 300 mg with breakfast,Continue Ibuprofen 300 mg with breakfast,O B-MED I-MED I-MED O O
+Take Pantoprazole for 5 days,Take Pantoprazole for 5 days,O B-MED O O O
+Inject Vitamin D 250 units in the morning,Inject Vitamin D 250 units in the morning,O O O O O O O O
+Take Insulin 500 mg twice daily,Take Insulin 500 mg twice daily,O B-MED I-MED I-MED O O
+Patient should take Pantoprazole 500 mg three times a day,Patient should take Pantoprazole 500 mg three times a day,O O O B-MED I-MED I-MED O O O O
+Use Cetirizine before bedtime,Use Cetirizine before bedtime,O B-MED O O
+Apply Amoxicillin ointment on the wound twice daily,Apply Amoxicillin ointment on the wound twice daily,O B-MED O O O O O O
+Doctor prescribed Paracetamol 650 mg once daily,Doctor prescribed Paracetamol 650 mg once daily,O O B-MED I-MED I-MED O O
+Consume Pantoprazole after food,Consume Pantoprazole after food,O B-MED O O
+Take Paracetamol for 5 days,Take Paracetamol for 5 days,O B-MED O O O
+Use Neosporin before bedtime,Use Neosporin before bedtime,O B-MED O O
+Consume Metformin after food,Consume Metformin after food,O B-MED O O
+Consume Amoxicillin after food,Consume Amoxicillin after food,O B-MED O O
+Take Dolo 650 for 5 days,Take Dolo 650 for 5 days,O O O O O O
+Take Dolo 650 for 5 days,Take Dolo 650 for 5 days,O O O O O O
+Consume Prednisone after food,Consume Prednisone after food,O B-MED O O
+Inject Neosporin 850 units in the morning,Inject Neosporin 850 units in the morning,O B-MED I-MED I-MED O O O
+Consume Dolo 650 after food,Consume Dolo 650 after food,O O O O O
+Doctor prescribed Atorvastatin 650 mg once daily,Doctor prescribed Atorvastatin 650 mg once daily,O O B-MED I-MED I-MED O O
+Take Paracetamol 250 mg twice daily,Take Paracetamol 250 mg twice daily,O B-MED I-MED I-MED O O
+Doctor prescribed Ranitidine 650 mg once daily,Doctor prescribed Ranitidine 650 mg once daily,O O B-MED I-MED I-MED O O
+Start Ranitidine 850 mg for pain relief,Start Ranitidine 850 mg for pain relief,O B-MED I-MED I-MED O O O
+Continue Losartan 500 mg with breakfast,Continue Losartan 500 mg with breakfast,O B-MED I-MED I-MED O O
+Consume Ranitidine after food,Consume Ranitidine after food,O B-MED O O
+Inject Prednisone 100 units in the morning,Inject Prednisone 100 units in the morning,O B-MED I-MED I-MED O O O

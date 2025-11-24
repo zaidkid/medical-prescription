@@ -1,0 +1,101 @@
+text,label
+Take Paracetamol 500mg twice daily,medicine
+Take Amoxicillin 250mg every 8 hours,medicine
+Tab Azithromycin 500mg once daily for 3 days,medicine
+Use ORS after every loose stool,medicine
+Apply ointment twice a day,medicine
+Take Vitamin D3 once a week,medicine
+Take Ibuprofen 400mg if pain persists,medicine
+Use eye drops 2 times daily,medicine
+Syrup Ambroxol 5ml three times daily,medicine
+Drink plenty of water,medicine
+Take Cetirizine 10mg at night,medicine
+Use nasal spray twice a day,medicine
+Take Metformin 500mg morning and night,medicine
+Apply gel on affected area,medicine
+Take Pantoprazole before breakfast,medicine
+Take Iron supplement daily,medicine
+Use cough syrup 10ml twice daily,medicine
+Take ORS immediately,medicine
+Use antibiotic cream twice daily,medicine
+Take Calcium tablets daily,medicine
+Patient diagnosed with acute sinusitis,diagnosis
+Severe throat infection observed,diagnosis
+Symptoms indicate viral fever,diagnosis
+Findings suggest bacterial pneumonia,diagnosis
+Probable typhoid fever,diagnosis
+Mild migraine diagnosed,diagnosis
+Diagnosis: gastritis,diagnosis
+Signs of dehydration,diagnosis
+Allergic reaction suspected,diagnosis
+Upper respiratory tract infection,diagnosis
+Possible dengue infection,diagnosis
+Symptoms consistent with malaria,diagnosis
+Suspected urinary tract infection,diagnosis
+Diagnosis: hypertension,diagnosis
+Patient has high fever,diagnosis
+Diagnosis: anemia,diagnosis
+Mild chest congestion observed,diagnosis
+Doctor suspects influenza,diagnosis
+Diagnosis: diabetic neuropathy,diagnosis
+Severe stomach pain reported,diagnosis
+Come for follow up next week,follow_up
+Follow up after 3 days,follow_up
+Visit again if symptoms worsen,follow_up
+Review after 1 month,follow_up
+Follow up after fever subsides,follow_up
+Return for consultation on Monday,follow_up
+Follow up if pain increases,follow_up
+Revisit for blood pressure check,follow_up
+Schedule next visit after 10 days,follow_up
+Patient advised for routine follow-up,follow_up
+Visit clinic for progress review,follow_up
+Come after completing medication course,follow_up
+Revisit for wound inspection,follow_up
+Follow up for lab test results,follow_up
+Return after 5 days,follow_up
+Schedule follow up for diabetes review,follow_up
+Come back in two weeks,follow_up
+Follow up if dizziness persists,follow_up
+Come for suture removal,follow_up
+Revisit in case of side effects,follow_up
+Blood test required for CBC,test_request
+Recommend liver function test,test_request
+Get X ray chest PA view,test_request
+Urine test recommended,test_request
+Request for Hemoglobin test,test_request
+Schedule fasting blood sugar test,test_request
+ECG needed for chest discomfort,test_request
+Get MRI brain with contrast,test_request
+Thyroid profile test advised,test_request
+Request dengue NS1 antigen test,test_request
+Order CRP blood test,test_request
+Ultrasound abdomen required,test_request
+COVID RT-PCR test recommended,test_request
+Get lipid profile test,test_request
+Order kidney function test,test_request
+Blood culture test required,test_request
+Get CT scan abdomen,test_request
+Order Vitamin B12 test,test_request
+Get ESR blood test,test_request
+Check HbA1c levels,test_request
+Patient name John Doe,misc
+Age 32 years,misc
+Female patient,misc
+No known allergies,misc
+No significant history,misc
+Patient weight 55 kg,misc
+Blood pressure normal,misc
+Temperature recorded at 98.6 F,misc
+Patient feeling better today,misc
+BP: 120/80,misc
+Pulse rate 82,misc
+Patient is stable,misc
+No major complaints,misc
+Patient requested rest,misc
+History of mild asthma,misc
+Temperature 101 F,misc
+Weight 60 kg,misc
+Heart rate normal,misc
+General checkup,misc
+Patient advised rest,misc
