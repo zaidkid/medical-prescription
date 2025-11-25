@@ -6,7 +6,7 @@ import os
 # -------------------------------------------------------
 # CONFIGURE GEMINI
 # -------------------------------------------------------
-genai.configure(api_key="AIzaSyDavFcUasq3vPZw2d67Ht7T2V6x8Ti-qxo")
+genai.configure(api_key="YOUR_GEMINI_API_KEY_HERE")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # -------------------------------------------------------
