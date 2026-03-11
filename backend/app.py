@@ -84,7 +84,7 @@ def ner_extract(text):
     return list(set(meds))
 
 
-# ⭐ NEW — Advanced Medical Structuring Logic
+# NEW — Advanced Medical Structuring Logic
 def format_medical_text(text):
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 

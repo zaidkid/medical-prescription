@@ -85,13 +85,13 @@ export default function UploadBox() {
   }
 
   return (
-    <div className="w-full min-h-screen bg-[#F8F5EF] flex flex-col items-center px-6 py-28">
+    <div className="w-full min-h-screen bg-[rgb(248,245,239)] flex flex-col items-center mt-6 px-6">
       {/* Back Button */}
       <motion.button
         whileHover={{ scale: 1.06 }}
         whileTap={{ scale: 0.94 }}
         onClick={() => router.push("/")}
-        className="flex items-center gap-2 text-gray-700 font-medium mb-10 self-start"
+        className="flex items-center gap-2 text-gray-700 font-semibold font-serif mb-10 self-start"
       >
         <ArrowLeft size={20} className="text-teal-600" />
         Back to Home
